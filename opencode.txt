@@ -1,0 +1,33 @@
+solution of question 1:
+Git and GitHub-
+Git is a version control system. It is a software tool that helps you manage the different versions of your code files and track changes. With Git, you can keep a
+history of changes, revert to previous versions, and collaborate with other developers by sharing changes with one another.
+
+GitHub, on the other hand, is a platform that provides hosting for Git repositories, as well as tools for bug tracking, project management, and collaboration.
+It makes it easier for developers to store and share their code, as well as track issues, manage pull requests, and build software. In other words,
+GitHub is a web-based platform that provides an interface for Git repositories and allows for easy collaboration and code sharing.
+
+
+
+
+solution of que 2:
+five basic Git commands:
+1.git commit: This command is used to save changes to the local Git repository. When you run git commit, Git creates a new "commit" with a message 
+that describes the changes you made. 
+2. git clone: This command is used to copy an existing Git repository from a remote source to your local machine. For example, you can use git clone 
+to download a repository from GitHub.
+3. git add: This command is used to add files to the staging area, which is a temporary holding place for changes that you want to commit.
+4. git init: This command is used to initialize a new Git repository. It creates a new directory with all the necessary Git files to track changes in your code.
+5. git push: This command is used to upload your local Git repository to a remote repository, such as a server on GitHub. When you run git push, 
+your changes are sent to the remote repository and made available to other collaborators.
+
+
+3.  way to propose changes to a project that is hosted on a remote repository
+1. for making a pull request:
+2. Fork the repository on GitHub.
+3. Clone the forked repository to your local machine.
+4. Create a new branch for your changes.
+5. Make the changes to the code.
+6. Commit and push the changes to the forked repository.
+7. Open a pull request on the original repository.
+8. Wait for the repository maintainers to review and accept your changes.
